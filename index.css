@@ -1,0 +1,14 @@
+/* section #div{
+    margin: 2px;
+    padding: 2px;
+    border: 2px solid white;
+    border-radius: 3px;
+    justify-content: space-around;
+} */
+body{
+    background-image: url("./bikers.png");
+    background-size: cover;
+    color: #EB661B;
+    padding: 200px 0px 0px 400px;
+}
+sect
